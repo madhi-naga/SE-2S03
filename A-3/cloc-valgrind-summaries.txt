@@ -1,0 +1,17 @@
+2) Cloc Summary
+---------------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+---------------------------------------------------------------------------------------
+C                                1             27              0            114
+---------------------------------------------------------------------------------------
+
+3) Valgrind Summary
+==1505== 
+==1505== HEAP SUMMARY:
+==1505==     in use at exit: 0 bytes in 0 blocks
+==1505==   total heap usage: 39 allocs, 39 frees, 4,980 bytes allocated
+==1505==
+==1505== All heap blocks were freed -- no leaks are possible
+==1505==
+==1505== For counts of detected and suppressed errors, rerun with: -v
+==1505== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
